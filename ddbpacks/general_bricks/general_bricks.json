@@ -1,0 +1,49 @@
+{
+	"iron_block2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "iron_block2"
+	},
+	
+	"obsidian2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "obsidian2"
+	},
+
+	"birch2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "planks_birch2"
+	},
+
+	"jungle2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "planks_jungle2"
+	},
+
+	"oak2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "planks_oak2"
+	},
+
+	"acacia2" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "wood", 
+		"material" : "wood",
+		"textureName": "planks_acacia"
+	}
+}

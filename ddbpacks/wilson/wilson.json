@@ -1,0 +1,32 @@
+{
+	"adam" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"lightValue" : 10,
+		"textureName": "adam"
+	},
+	
+	
+	"black_iron_stairs" :
+	{
+		"type" : "stairs",
+		"material" : "wood",
+		"soundType" : "wood",
+		"textureName": "black_iron"		
+	},
+	
+	"black_iron_slab" :
+	{
+		"type" : "slab",
+		"material" : "rock",
+		"soundType" : "stone",
+		"textures" : 
+		{ 
+			"top" : "black_iron",
+			"bottom" : "black_iron",
+			"sides" : "black_iron" 
+		}
+	}
+}

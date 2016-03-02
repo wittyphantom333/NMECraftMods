@@ -1,0 +1,10 @@
+{
+	
+	"cobblestone_colored" : 
+	{  
+		"type" : "colored",
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock"
+	}
+}

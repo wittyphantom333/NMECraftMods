@@ -1,0 +1,11 @@
+{
+	"carolina_panthers" : 
+	{  
+		"hardness" : 2.0, 
+		"soundType" : "stone", 
+		"material" : "rock",
+		"textureName": "carolina"
+	}
+
+	
+}
